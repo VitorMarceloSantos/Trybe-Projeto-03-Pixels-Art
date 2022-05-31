@@ -30,9 +30,9 @@
 
 ##
 <h3>Galeria:</h3>
-<img src="https://github.com/VitorMarceloSantos/Trybe-Projeto-03-Pixels-Art/blob/main/ProjetoPixelsArt-Nota.png" title="Projeto - 03" alt="J" width="1000" height="1000"/><br/>
 <img src="https://github.com/VitorMarceloSantos/Trybe-Projeto-03-Pixels-Art/blob/main/projetoPixelsArt-trybe.png" title="Projeto - 03" alt="J"/><br/>
 <img src="https://github.com/VitorMarceloSantos/Trybe-Projeto-03-Pixels-Art/blob/main/ProjetoPixelsArt.png" title="Projeto - 03" alt="J"/><br/>
+<img src="https://github.com/VitorMarceloSantos/Trybe-Projeto-03-Pixels-Art/blob/main/ProjetoPixelsArt-Nota.png" title="Projeto - 03" alt="J" width="1000" height="1000"/><br/>
 
 ##
 
